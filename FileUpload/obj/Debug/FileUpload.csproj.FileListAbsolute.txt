@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Webmates\FileUpload\FileUpload\bin\FileUpload.dll
+C:\Users\Admin\Documents\Webmates\FileUpload\FileUpload\bin\FileUpload.pdb
+C:\Users\Admin\Documents\Webmates\FileUpload\FileUpload\obj\Debug\FileUpload.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Webmates\FileUpload\FileUpload\obj\Debug\FileUpload.dll
+C:\Users\Admin\Documents\Webmates\FileUpload\FileUpload\obj\Debug\FileUpload.pdb
